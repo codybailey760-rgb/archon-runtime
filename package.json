@@ -1,0 +1,1 @@
+{\n  "name": "archon-runtime",\n  "version": "1.0.0",\n  "main": "src/index.ts",\n  "scripts": {\n    "build": "vite build",\n    "start": "vite"\n  },\n  "dependencies": {\n    "gamepad-api": "latest",\n    "performance-monitor": "latest"\n  },\n  "devDependencies": {\n    "typescript": "latest",\n    "vite": "latest"\n  }\n}
